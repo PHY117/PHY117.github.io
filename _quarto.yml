@@ -1,19 +1,21 @@
 project:
   type: website
+  output-dir: .
 
 website:
-  title: "PHY117Website"
+  title: "PHY 117"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
+editor: visual
+self-contained: true
 
 

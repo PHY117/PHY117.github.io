@@ -7,7 +7,9 @@ jupyter: python3
 
 PHY 117 is a 5-credit course, which includes a lecture section and a lab section, although the labs are integrated throughout the course.
 
-![xkcd: Centrifugal force](https://imgs.xkcd.com/comics/centrifugal_force.png) From [xkcd.com](https://xkcd.com/123/)
+![xkcd: Centrifugal force](https://imgs.xkcd.com/comics/centrifugal_force.png) 
+
+From [xkcd.com](https://xkcd.com/123/)
 
 ## Course Description 
 

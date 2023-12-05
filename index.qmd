@@ -1,5 +1,9 @@
 ---
-title: "PHY117"
+title: "PHY 117"
+format: 
+  html:
+    link-external-newwindow: true
+editor: visual
 jupyter: python3
 ---
 
@@ -7,15 +11,16 @@ jupyter: python3
 
 PHY 117 is a 5-credit course, which includes a lecture section and a lab section, although the labs are integrated throughout the course.
 
-![xkcd: Centrifugal force](https://imgs.xkcd.com/comics/centrifugal_force.png) 
+![xkcd: Centrifugal force](https://imgs.xkcd.com/comics/centrifugal_force.png)
 
 From [xkcd.com](https://xkcd.com/123/)
 
-## Course Description 
+## Course Description
 
 The concepts and relations (force, energy and momentum) describing physical interactions and the changes in motion they produce, along with applications to the physical and life sciences. Lab experiments, lectures and problem-solving activities are interwoven into each class. In-class discussion sections offer additional help with mathematics, data analysis and problem solving. This course satisfies medical school and engineering requirements for an introductory physics I course with a lab.
 
 Offered: Fall, Spring
 
-## Prerequisites 
+## Prerequisites
+
 MTH 111 or equivalent (Calculus 1).

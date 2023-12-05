@@ -8,6 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://phy117.github.io/Spring2024/
+        text: "Spring 2024" 
+        target: _blank #makes it open in new page
 
 format:
   html:
